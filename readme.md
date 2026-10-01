@@ -327,7 +327,6 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
 - Browser Extension :satellite:
   - Firefox
     - [10ten Reader (formerly Rikaichamp)](https://10ten.life/en/) - Japanese to English/German/French/Russian popup dictionary; hover a word for a definition.
-    - [YuzuLingo](https://www.yuzulingo.com) - Local OCR over video hardsubs to enable Yomitan lookups on YouTube and Bilibili
   - Chrome
     - [Yomitan](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) - Browser popup dictionary that helps you decipher difficult Japanese text.
     - [rikaigu](https://chrome.google.com/webstore/detail/rikaigu/gmgccdlimakdipjjogccblkaoipdklcb) - Rikaikun enhanced. Translate Japanese by hovering over words.
