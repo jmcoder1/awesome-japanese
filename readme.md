@@ -327,14 +327,14 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
 - Browser Extension :satellite:
   - Firefox
     - [10ten Reader (formerly Rikaichamp)](https://10ten.life/en/) - Japanese to English/German/French/Russian popup dictionary; hover a word for a definition.
-    - [YuzuLingo](https://www.yuzulingo.com)Local OCR over video hardsubs to enable Yomitan lookups on YouTube and Bilibili
+    - [YuzuLingo](https://www.yuzulingo.com) - Local OCR over video hardsubs to enable Yomitan lookups on YouTube and Bilibili
   - Chrome
     - [Yomitan](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) - Browser popup dictionary that helps you decipher difficult Japanese text.
     - [rikaigu](https://chrome.google.com/webstore/detail/rikaigu/gmgccdlimakdipjjogccblkaoipdklcb) - Rikaikun enhanced. Translate Japanese by hovering over words.
     - [IPA furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) - Looks up the readings for kanji words and inserts them as Furigana.
     - [ReadNihon](https://chrome.google.com/webstore/detail/readnihon/gpbdeemekjaigcjldahhmckkfbkmebfd) - Adds furigana to web pages by JLPT level; save known words to skip them.
     - [jp343 Tracker](https://github.com/mh-343/jp343-tracker) - Tracks Japanese immersion time on YouTube, Netflix, Crunchyroll, Spotify and more.
-    - [YuzuLingo](https://www.yuzulingo.com)Local OCR over video hardsubs to enable Yomitan lookups on YouTube and Bilibili
+    - [YuzuLingo](https://www.yuzulingo.com) - Local OCR over video hardsubs to enable Yomitan lookups on YouTube and Bilibili
   - Safari
     - [Safarikai](https://ashchan.github.io/safarikai/) - Rikaichan's Safari extension version.
     - [Toucan - Language Learning](https://jointoucan.com/) - Auto-translates select words and phrases on web pages into your target language :iphone:.
